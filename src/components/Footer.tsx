@@ -26,7 +26,7 @@ export default function Footer() {
     return (
         <StyledFooter>
             {/* Copyright statement */}
-            <p>All Rights Reserved by Eytan Mobilio: <StyledLink to="credits.html">Credits</StyledLink> &copy;</p>
+            <p>All Rights Reserved by Eytan Mobilio: <StyledLink to="/credits">Credits</StyledLink> &copy;</p>
         </StyledFooter>
     );
 }

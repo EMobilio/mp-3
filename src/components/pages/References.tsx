@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import StyledMain from "../StyledMain";
-import StyledPageHeading from "../StyledPageHeading";
+import StyledMain from "../ui-components/StyledMain";
+import StyledPageHeading from "../ui-components/StyledPageHeading";
 
 // styled h3 for table title
 const TableTitle = styled.h3`

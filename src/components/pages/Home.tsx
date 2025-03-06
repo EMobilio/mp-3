@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import {Link} from "react-router-dom";
-import StyledMain from "../StyledMain";
-import StyledPageHeading from "../StyledPageHeading";
+import StyledMain from "../ui-components/StyledMain";
+import StyledPageHeading from "../ui-components/StyledPageHeading";
 
 // styled container div for two column layout
 const ColumnContainer = styled.div`
